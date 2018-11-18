@@ -4,7 +4,7 @@
   "description": "This is a basic node boilerplate with babel, travisCI and coveralls integration",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter nyan"
+    "test": "mocha --reporter spec"
   },
   "engines": {
     "node": ">=4.2.4"
@@ -22,6 +22,8 @@
   "homepage": "https://github.com/dbytecoderc/node-project-boilerplate#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "coveralls": "^3.0.2",
+    "istanbul": "^0.4.5",
     "mocha": "^5.2.0"
   }
 }
