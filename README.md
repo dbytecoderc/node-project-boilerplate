@@ -9,9 +9,7 @@ This is a basic node boilerplate with babel, travisCI and coveralls integration
 
 #Badges
 
-[![Build Status](https://travis-ci.org/dbytecoderc/node-project-boilerplate.svg?branch=master)](https://travis-ci.org/dbytecoderc/node-project-boilerplate)
-
-[![Coverage Status](https://coveralls.io/repos/github/dbytecoderc/node-project-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dbytecoderc/node-project-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/dbytecoderc/node-project-boilerplate.svg?branch=master)](https://travis-ci.org/dbytecoderc/node-project-boilerplate) [![Coverage Status](https://coveralls.io/repos/github/dbytecoderc/node-project-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dbytecoderc/node-project-boilerplate?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/e619ea3dfce50f398c2f/maintainability)](https://codeclimate.com/github/dbytecoderc/node-project-boilerplate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/e619ea3dfce50f398c2f/test_coverage)](https://codeclimate.com/github/dbytecoderc/node-project-boilerplate/test_coverage)
 
 
 
