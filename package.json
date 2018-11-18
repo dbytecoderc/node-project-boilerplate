@@ -1,0 +1,27 @@
+{
+  "name": "node-project-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a basic node boilerplate with babel, travisCI and coveralls integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbytecoderc/node-project-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "“Oparah <oparahdc@gmail.com> (http://www.oparahdc.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbytecoderc/node-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dbytecoderc/node-project-boilerplate#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
